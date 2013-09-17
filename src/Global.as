@@ -104,7 +104,7 @@ package
 			Log.addLog("GamePort:" + GamePort);
 			Log.addLog("operatetype:" + operatetype);
 			Log.addLog("local:" + local);
-			Log.addLog("local1:" + local1);
+//			Log.addLog("local1:" + local1);
 			i = 0;
 			while (i < arrayList.length)
 			{
